@@ -2,7 +2,7 @@
 
 Demo implementation for:
 
-T. Yan, Q. Guo, J. Mi, Z. Lai, W. Li. (2025). *Tensorized Specificity and Consistency for Latent Multi-View Subspace Clustering*. Manuscript submitted to *Engineering Applications of Artificial Intelligence*.  
+T. Yan, Q. Guo, J. Mi, Z. Lai, W. Li. (2026). *Tensorized Specificity and Consistency for Latent Multi-View Subspace Clustering*. Manuscript submitted to *Pattern Recognition*.  
 
 **Run**  
 
@@ -10,5 +10,6 @@ T. Yan, Q. Guo, J. Mi, Z. Lai, W. Li. (2025). *Tensorized Specificity and Consis
 
 
  **Important Notice**: The complete source code will be shared after paper publication. 
+
 
 
